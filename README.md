@@ -4,5 +4,6 @@ Hi, I'm Juliana Professor of Computational Thinking
 - 🌱 We are learning to program in scratch language and JavaScript.
 - 💞️ I hope to contribute to what we produce.
 - 📫 Any questions I'm available at juliana.siqueira@escola.pr.gov.br
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <!---
 juju131216/juju131216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
